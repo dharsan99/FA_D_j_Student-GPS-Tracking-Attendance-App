@@ -1,4 +1,4 @@
-<h2>Mobile Picture, GPS Tracking Attendance App</h2>
+<h2>Student-GPS-Tracking-Attendance-App</h2>
 <h4>A Mobile GPS, Picture Attendance App for storing Employee, Asset Picture Attendance with GPS Locations.</h4>
 <h2>Objective</h2>
 Store all Employee and/or Assets attendance records electronically.<br/>
